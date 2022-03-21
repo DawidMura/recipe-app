@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DawidMura/recipe-app/static/css/main.55cf7705.css",
+    "main.js": "/DawidMura/recipe-app/static/js/main.ff5ecc39.js",
+    "index.html": "/DawidMura/recipe-app/index.html",
+    "main.55cf7705.css.map": "/DawidMura/recipe-app/static/css/main.55cf7705.css.map",
+    "main.ff5ecc39.js.map": "/DawidMura/recipe-app/static/js/main.ff5ecc39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55cf7705.css",
+    "static/js/main.ff5ecc39.js"
+  ]
+}
