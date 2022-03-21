@@ -66,6 +66,7 @@ const App = () => {
 			image: "",
 			alt: "",
 		});
+		setPopupActive(false);
 	};
 
 	const handleIngredient = (e, i) => {
