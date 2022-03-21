@@ -17,7 +17,6 @@ const App = () => {
 		ingredients: [],
 		steps: [],
 		image: "",
-		alt: "",
 	});
 	const [popupActive, setPopupActive] = useState(false);
 
